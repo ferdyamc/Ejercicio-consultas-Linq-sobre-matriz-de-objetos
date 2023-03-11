@@ -1,0 +1,8 @@
+C:\Users\Ferdy\source\repos\Linq - archivo externo\Linq - archivo externo\bin\Debug\Linq - archivo externo.exe.config
+C:\Users\Ferdy\source\repos\Linq - archivo externo\Linq - archivo externo\bin\Debug\Linq - archivo externo.exe
+C:\Users\Ferdy\source\repos\Linq - archivo externo\Linq - archivo externo\bin\Debug\Linq - archivo externo.pdb
+C:\Users\Ferdy\source\repos\Linq - archivo externo\Linq - archivo externo\obj\Debug\Linq - archivo externo.csproj.AssemblyReference.cache
+C:\Users\Ferdy\source\repos\Linq - archivo externo\Linq - archivo externo\obj\Debug\Linq - archivo externo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ferdy\source\repos\Linq - archivo externo\Linq - archivo externo\obj\Debug\Linq - archivo externo.csproj.CoreCompileInputs.cache
+C:\Users\Ferdy\source\repos\Linq - archivo externo\Linq - archivo externo\obj\Debug\Linq - archivo externo.exe
+C:\Users\Ferdy\source\repos\Linq - archivo externo\Linq - archivo externo\obj\Debug\Linq - archivo externo.pdb
